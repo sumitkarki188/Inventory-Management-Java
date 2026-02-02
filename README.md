@@ -1,18 +1,39 @@
-## Getting Started
+📦 Inventory Management System (Java)
+📖 Project Overview
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+The Inventory Management System is a Java-based application designed to manage products, stock levels, and inventory operations efficiently.
+It provides a structured approach to handle inventory data using core Java, focusing on modular design, data integrity, and scalability.
 
-## Folder Structure
+This project demonstrates strong fundamentals in Java programming, object-oriented design, and backend logic, making it suitable for enterprise and fintech-oriented roles.
 
-The workspace contains two folders by default, where:
+🚀 Features
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Add, update, and delete inventory items
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Track product quantity and availability
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Categorize products for better organization
 
-## Dependency Management
+Perform CRUD operations using Java
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Console-based interactive interface
+
+Modular and maintainable code structure
+
+🛠️ Tech Stack
+
+Language: Java
+
+IDE: Visual Studio Code
+
+Version Control: Git & GitHub
+
+Concepts Used:
+
+Object-Oriented Programming (OOP)
+
+Collections Framework
+
+Exception Handling
+
+Modular Design
