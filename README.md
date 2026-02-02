@@ -1,39 +1,33 @@
-📦 Inventory Management System (Java)
-📖 Project Overview
+# 📦 Inventory Management System (Java)
 
-The Inventory Management System is a Java-based application designed to manage products, stock levels, and inventory operations efficiently.
-It provides a structured approach to handle inventory data using core Java, focusing on modular design, data integrity, and scalability.
+## 📖 Project Overview
+The **Inventory Management System** is a Java-based application designed to manage products, stock levels, and inventory operations efficiently. The project focuses on core Java concepts and clean modular design to simulate real-world inventory handling logic commonly used in enterprise systems.
 
-This project demonstrates strong fundamentals in Java programming, object-oriented design, and backend logic, making it suitable for enterprise and fintech-oriented roles.
+This project demonstrates strong fundamentals in **Java programming**, **Object-Oriented Programming (OOP)**, and backend application design, making it suitable for software engineering and fintech-oriented roles.
 
-🚀 Features
+---
 
-Add, update, and delete inventory items
+## 🚀 Features
+- Add new inventory items  
+- Update existing product details  
+- Delete products from inventory  
+- Track product quantity and availability  
+- Categorize products for better organization  
+- Console-based interactive interface  
+- Modular and maintainable Java code  
 
-Track product quantity and availability
+---
 
-Categorize products for better organization
+## 🛠️ Tech Stack
+- **Language:** Java  
+- **IDE:** Visual Studio Code  
+- **Version Control:** Git & GitHub  
+- **Core Concepts Used:**
+  - Object-Oriented Programming (OOP)
+  - Java Collections Framework
+  - Exception Handling
+  - Modular Design Principles
 
-Perform CRUD operations using Java
+---
 
-Console-based interactive interface
-
-Modular and maintainable code structure
-
-🛠️ Tech Stack
-
-Language: Java
-
-IDE: Visual Studio Code
-
-Version Control: Git & GitHub
-
-Concepts Used:
-
-Object-Oriented Programming (OOP)
-
-Collections Framework
-
-Exception Handling
-
-Modular Design
+## 📂 Project Structure
