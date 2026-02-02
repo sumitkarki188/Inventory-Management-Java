@@ -28,6 +28,4 @@ This project demonstrates strong fundamentals in **Java programming**, **Object-
   - Exception Handling
   - Modular Design Principles
 
----
 
-## 📂 Project Structure
